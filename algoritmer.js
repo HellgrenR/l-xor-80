@@ -58,11 +58,11 @@
 
 // 6. Skriv en funktion som beräknar funktionen ax3 + 7 och skriver ut resultatet. Variablerna a och x ska läsas in.
 
-function algebra(a, x) {
+// function algebra(a, x) {
+//   return a * x * 3 + 7
+// }
 
-}
-
-
+// console.log(algebra(1,2))
 
 
 
